@@ -22,7 +22,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-##DialogFlow
+## DialogFlow
  You will need to go to [DialogFlow](https://dialogflow.com/) and setup some intents and add some small talk to your bot.
  for any questions please email me at (ronnie173@gmail.com)
 
