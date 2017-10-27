@@ -22,6 +22,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+##DialogFlow
+ You will need to go to [DialogFlow](https://dialogflow.com/) and setup some intents and add some small talk to your bot.
+ for any questions please email me at (ronnie173@gmail.com)
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
